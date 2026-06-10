@@ -11,7 +11,12 @@ A pure black OLED-friendly theme for Visual Studio Code, designed for dark envir
 
 ## Preview
 
-> Screenshot coming soon.
+<p align="center">
+  <img src="assets/preview.png" alt="PureDark OLED Theme preview" width="800">
+</p>
+<p align="center">
+  <img src="assets/preview1.png" alt="PureDark OLED Theme preview" width="800">
+</p>
 
 ## Installation
 

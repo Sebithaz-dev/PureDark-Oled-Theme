@@ -29,7 +29,7 @@
     "eye strain",
     "energy saving"
   ],
-  "icon": "icon.png",
+  "icon": "assets/icon.png",
   "contributes": {
     "themes": [
       {
