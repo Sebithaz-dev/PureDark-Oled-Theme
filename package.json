@@ -1,7 +1,7 @@
 {
   "name": "puredark-oled-theme",
   "displayName": "PureDark OLED Theme",
-  "description": "A pure black OLED-friendly theme pack for Visual Studio Code with two variants: amethyst purple (PureDark OLED) and Akatsuki red. Designed to reduce light emission and save power on OLED displays.",
+  "description": "A pure black OLED-friendly theme pack for Visual Studio Code with two variants: amethyst purple and Akatsuki red. Designed to reduce light emission and save power on OLED displays.",
   "version": "0.1.0",
   "publisher": "sebithaz-dev",
   "author": {
