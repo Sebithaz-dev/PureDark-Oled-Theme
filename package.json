@@ -1,0 +1,48 @@
+{
+  "name": "puredark-oled-theme",
+  "displayName": "PureDark OLED Theme",
+  "description": "Tema oscuro optimizado para pantallas OLED con fondo negro puro (#000000) para ahorro de energía y estética. Acento púrpura amatista.",
+  "version": "0.0.1",
+  "publisher": "tu-publisher-id",
+  "author": {
+    "name": "Tu Nombre",
+    "url": "https://github.com/tu-usuario"
+  },
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "oled",
+    "amoled",
+    "pure black",
+    "dark theme",
+    "power saving",
+    "purple",
+    "amethyst",
+    "puredark",
+    "minimum",
+    "eye strain",
+    "energy saving"
+  ],
+  "icon": "icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "PureDark OLED Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/puredark-oled-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tu-usuario/puredark-oled-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/tu-usuario/puredark-oled-theme/issues"
+  }
+}
