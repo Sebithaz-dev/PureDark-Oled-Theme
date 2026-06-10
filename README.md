@@ -5,17 +5,25 @@ A pure black OLED-friendly theme for Visual Studio Code, designed for dark envir
 ## Features
 
 - Pure black background (`#000000`)
-- Amethyst purple accent color
+- Amethyst purple and Akatsuki red accent colors
 - Minimal and clean visual style
 - Designed for OLED screens and low-light coding
 
 ## Preview
-
+##### Purple Design
 <p align="center">
-  <img src="assets/preview.png" alt="PureDark OLED Theme preview" width="800">
+  <img src="assets/preview-amethyst.png" alt="PureDark OLED Theme preview" width="800">
 </p>
 <p align="center">
-  <img src="assets/preview1.png" alt="PureDark OLED Theme preview" width="800">
+  <img src="assets/preview1-amethyst.png" alt="PureDark OLED Theme preview" width="800">
+</p>
+
+##### Akatsuki Design
+<p align="center">
+  <img src="assets/preview-akatsuki.png" alt="PureDark OLED Theme preview" width="800">
+</p>
+<p align="center">
+  <img src="assets/preview1-akatsuki.png" alt="PureDark OLED Theme preview" width="800">
 </p>
 
 ## Installation
