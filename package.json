@@ -1,12 +1,12 @@
 {
   "name": "puredark-oled-theme",
   "displayName": "PureDark OLED Theme",
-  "description": "Tema oscuro optimizado para pantallas OLED con fondo negro puro (#000000) para ahorro de energía y estética. Acento púrpura amatista.",
+  "description": "A pure black OLED-friendly theme for Visual Studio Code, designed to reduce light emission and highlight code with an amethyst purple accent.",
   "version": "0.0.1",
-  "publisher": "tu-publisher-id",
+  "publisher": "sebithaz-dev",
   "author": {
-    "name": "Tu Nombre",
-    "url": "https://github.com/tu-usuario"
+    "name": "Sebithaz-dev",
+    "url": "https://github.com/Sebithaz-dev"
   },
   "license": "MIT",
   "engines": {
@@ -20,11 +20,12 @@
     "amoled",
     "pure black",
     "dark theme",
+    "black theme",
     "power saving",
     "purple",
     "amethyst",
     "puredark",
-    "minimum",
+    "eye comfort",
     "eye strain",
     "energy saving"
   ],
@@ -40,9 +41,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tu-usuario/puredark-oled-theme"
+    "url": "https://github.com/Sebithaz-dev/PureDark-Oled-Theme"
   },
   "bugs": {
-    "url": "https://github.com/tu-usuario/puredark-oled-theme/issues"
+    "url": "https://github.com/Sebithaz-dev/PureDark-Oled-Theme/issues"
   }
 }
